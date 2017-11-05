@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BesplatnoParkiranje</string>
+
+    <string name="navigation_drawer_open">Otvori navigacijsku ladicu</string>
+    <string name="navigation_drawer_close">Zatvori navigacijsku ladicu</string>
+
+    <string name="action_settings">Postavke</string>
+    <string name="title_activity_maps_fragment">Karta</string>
+
+    <string name="ok">Spremi</string>
+    <string name="cancel">Otkaži</string>
+    <string name="dialog_title">Udaljenost</string>
+    <string name="title_activity_notification_activitiy">Aktivnost Notifikacije</string>
+    <string name="title_activity_notification">Aktivnost Notifikacije</string>
+    <string name="title_activity_parking_location_details">Detalji lokacije parkiranja</string>
+    <string name="add_location_name">Naziv:</string>
+    <string name="add_location_address">Adresa:</string>
+    <string name="add_location_city">Grad:</string>
+    <string name="add_location_button_add">Dodaj lokaciju</string>
+    <string name="add_location_button_dialog_title">Dodaj lokaciju</string>
+
+    <string name="add_location_message">Molim unijeti sve podatke!</string>
+</resources>

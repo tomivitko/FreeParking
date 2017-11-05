@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "816161057689",
+    "firebase_url": "https://freeparking-ce3dd.firebaseio.com",
+    "project_id": "freeparking-ce3dd",
+    "storage_bucket": "freeparking-ce3dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816161057689:android:f64eeed7c0bfa4a6",
+        "android_client_info": {
+          "package_name": "frapetrov.freeparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816161057689-f6do81v8nsqk2k0udkur68japcvfs5nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "frapetrov.freeparking",
+            "certificate_hash": "82ff6b60bae4ee0f682e9e74c10c0de3c122ce70"
+          }
+        },
+        {
+          "client_id": "816161057689-ugpi58b58cbog31sr7numjp1596gvh55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtPPjqq21qHG-CZHnyrAooG2Hu8DYcYBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816161057689-ugpi58b58cbog31sr7numjp1596gvh55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
